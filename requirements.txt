@@ -1,0 +1,11 @@
+google-play-scraper
+pandas
+numpy
+scikit-learn
+matplotlib
+wordcloud
+openpyxl
+jupyter
+ipykernel
+langdetect
+imbalanced-learn
